@@ -1,0 +1,33 @@
+Get the link for your group. If you don't see your group you will need to come see me. You must do the practical assigned to you. If you do a different one you will get zero.
+
+You are allowed to work with the people in the group you have identified only. If you have a member from a different group they will need to submit there own copy.
+
+
+
+https://docs.google.com/spreadsheets/d/1qb5A992CanKrDF5P9gfpaPYUts0yRWLZXDrRmnQxBd8/edit?usp=sharing
+
+
+
+INSTRUCTIONS
+
+Create the appropriate 5 ReactJS files:
+
+Index
+    Must show all the resources available in the database
+    Must use a table to show the title/name/label of your resource and your type/status/enum field
+Show
+    Must show all the details of the selected resource
+New
+    Must have a form to create a new resource
+    Must contain the submit handler and the input change handler
+Edit
+    Must have a prepopulated form for editing a selected resource
+    Must contain the submit handler and the input change handler
+    Must fetch (axios) the selected resource (otherwise you won't be able to populate the form)
+Destroy
+    Must destroy a selected resource
+
+
+You must push to github and provide the git link.
+
+BONUS: 10% if you can deploy to Heroku and 10% if you can get Notifications working!
